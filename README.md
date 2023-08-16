@@ -1,8 +1,10 @@
-### Hi there 👋
+### Yoo Minnaa 👋
+
+Perkenalkan saya **Jalalludin**, saya seorang mahasiswa jurusan ILMU KOMPUTER pada kampus Universitas Bumigora yang berfokus di bidang pengembangan website. 
+
+Jika ingin mengetahui lebih dalam lagi tentang saya, silahkan kunjungi akun [LinkedIn](https://www.linkedin.com/in/jalalludin-a0a70b262/) saya.
 
 <!--
-**Jalalln4497/Jalalln4497** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
