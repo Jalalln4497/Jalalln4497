@@ -4,6 +4,13 @@ Perkenalkan saya **Jalalludin**, saya seorang mahasiswa jurusan ILMU KOMPUTER pa
 
 Jika ingin mengetahui lebih dalam lagi tentang saya, silahkan kunjungi akun [LinkedIn](https://www.linkedin.com/in/jalalludin-a0a70b262/) saya.
 
+<p align="left">
+<a href="https://github.com/Jalalln4497">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jalalln4497&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jalalln4497&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 <!--
 Here are some ideas to get you started:
 
